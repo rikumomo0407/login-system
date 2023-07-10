@@ -1,0 +1,3 @@
+library
+
+https://github.com/ircmaxell/password_compat
