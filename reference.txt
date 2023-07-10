@@ -1,5 +1,5 @@
 ライブラリ
-https://github.com/ircmaxell/password_compat
+https://github.com/ircmaxell/password_compat/tree/master
 
 参考文献
 https://www.javadrive.jp/mysql/#section_install
