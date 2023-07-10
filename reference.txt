@@ -1,3 +1,7 @@
-library
+ライブラリ
 
 https://github.com/ircmaxell/password_compat
+
+参考文献
+
+http://516.jp/2827
