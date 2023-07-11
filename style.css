@@ -1,0 +1,88 @@
+*,*::before,*::after{box-sizing:border-box}*{margin:0}html,body{height:100%}body{line-height:1.5;-webkit-font-smoothing:antialiased}img,picture,video,canvas,svg{display:block;max-width:100%}input,button,textarea,select{font:inherit}p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word}#root,#__next{isolation:isolate}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter,Helvetica Neue,Arial,Hiragino Kaku Gothic ProN,Hiragino Sans,Meiryo,sans-serif;
+    font-size: 3rem;
+}
+
+td{
+    font-size: 3rem;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+a{
+    color: rgb(29, 155, 240);;
+    text-decoration: none;
+}
+
+ul{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+}
+
+#title{
+    margin-bottom: 50px;
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+table{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+input{
+    width: 100%;
+    font-size: 3rem;
+}
+
+#backtologin{
+    text-align: center;
+    font-weight: 500;
+}
+
+#backtologin a{
+    margin-top: 20px;
+}
+
+body > div, form{
+    width: 100%;
+    max-width: 800px;
+    padding: 0 30px;
+}
+
+#logindiv label{
+    margin: 20px 0;
+}
+
+#login{
+    margin-top: 30px;
+}
+
+#error{
+    margin-bottom: 10px;
+    color:red;
+}
+
+#main p{
+    width: 100%;
+    margin: 20px 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+#main li{
+    text-align: center;
+}
+
+#logout li{
+    margin-top: 10px;
+    text-align: center;
+}
